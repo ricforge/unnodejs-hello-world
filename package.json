@@ -1,0 +1,29 @@
+{
+  "name": "unnodejs-hello-world",
+  "version": "1.0.0",
+  "description": "Unnode.js Hello World example",
+  "author": "Riku Nurminen",
+  "license": "MIT",
+  "homepage": "https://www.unnodejs.org",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "unnode": "^0.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricforge/unnodejs-hello-world.git"
+  },
+  "keywords": [
+    "unnode",
+    "unnodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/ricforge/unnodejs-hello-world/issues"
+  }
+}
